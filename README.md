@@ -7,3 +7,5 @@
 - 云编译op官方[OpenWrt](https://github.com/openwrt/openwrt)
 
 默认机型为红米AC2100
+
+##还在边学习边更改阶段，变化可能会多一点！！
