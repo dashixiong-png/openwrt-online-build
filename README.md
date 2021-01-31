@@ -4,7 +4,7 @@
 
 - 云编译[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
 
-- 云编译op官方[OpenWrt](https://github.com/openwrt/openwrt)
+- 云编译op官方[OpenWrt](https://github.com/openwrt/openwrt)，op官方19.07分支不包含红米AC2100，所以只能用master分支编译
 
 默认机型为红米AC2100
 
