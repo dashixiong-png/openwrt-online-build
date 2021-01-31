@@ -18,7 +18,7 @@
 
 #添加自定义插件链接（自己想要什么就github里面搜索然后添加）
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon  #新的argon主题
-git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-argon-config  #argon主题设置（编译时候选上,在固件的‘系统’里面）
+#git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-argon-config  #argon主题设置（编译时候选上,在固件的‘系统’里面;官方op请Install luci-lib-ipkg package）
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan  #微信推送
 git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns  #smartdns DNS加速
 #git clone https://github.com/garypang13/luci-app-eqos.git package/lean/luci-app-eqos  #内网IP限速工具
