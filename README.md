@@ -20,10 +20,10 @@ Lede大源码的默认密码设置为空，首次登录修改自己的密码即�
 
 ## 感谢
 
-[OpenWrt](https://github.com/openwrt/openwrt)
-[Lean](https://github.com/coolsnowwolf/lede)
-[P3TERX大神](https://github.com/P3TERX)
-[281677160](https://github.com/281677160)
-[GitHub Actions](https://github.com/features/actions)
+- [OpenWrt](https://github.com/openwrt/openwrt)
+- [Lean](https://github.com/coolsnowwolf/lede)
+- [P3TERX大神](https://github.com/P3TERX)
+- [281677160](https://github.com/281677160)
+- [GitHub Actions](https://github.com/features/actions)
 
 ## 还在边学习边更改阶段，变化可能会多一点！！
