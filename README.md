@@ -16,7 +16,9 @@
 
 默认IP为：192.168.99.1
 
-Lede大源码的默认密码设置为空，首次登录修改自己的密码即可
+[L大源码](https://github.com/coolsnowwolf/lede)的默认密码设置为空，首次登录修改自己的密码即可
+
+[官方OpenWrt](https://github.com/openwrt/openwrt)默认语言已改成中文，但是不带Luci界面，如果需要编译时记得ssh连接并勾选相应模块luci-collections-luci
 
 ## 感谢
 
